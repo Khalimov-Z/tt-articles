@@ -1,0 +1,55 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "New article",
+      "date": "2021-11-11 15:59:07"
+    },
+    {
+      "id": 2,
+      "title": "Sequi dolorem sed",
+      "date": "2021-02-11 15:00:07"
+    },
+    {
+      "id": 3,
+      "title": "Aut velit saepe ullam",
+      "date": "2021-1-1 1:59:07"
+    },
+    {
+      "id": 4,
+      "title": "Totam quia non",
+      "date": "2021-5-3 5:59:07"
+    },
+    {
+      "id": 5,
+      "title": "Sunt cum tempora",
+      "date": "2021-5-5 13:09:07"
+    },
+    {
+      "id": 6,
+      "title": "Sint sit aut vero",
+      "date": "2021-6-24 6:15:07"
+    },
+    {
+      "id": 7,
+      "title": "Aliquam aut quasi",
+      "date": "2021-1-22 12:00:00"
+    },
+    {
+      "id": 8,
+      "title": "Vero rerum temporibus dolor",
+      "date": "2021-2-10 9:00:07"
+    },
+    {
+      "id": 9,
+      "title": "Molestiae perspiciatis ipsa",
+      "date": "2021-3-7 3:01:07"
+    },
+    {
+      "id": 10,
+      "title": "Fugiat veniam minus",
+      "date": "2021-4-14 5:22:07"
+    }
+
+  ]
+}
