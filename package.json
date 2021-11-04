@@ -22,7 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently \"npm start\" \"json-server --watch articles.json --port 3010\""
+    "dev": "concurrently \"npm start\" \"json-server --watch articles.json --port 3010\"",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +45,12 @@
   },
   "devDependencies": {
     "concurrently": "^6.3.0",
-    "json-server": "^0.17.0"
+    "husky": "^7.0.4",
+    "json-server": "^0.17.0",
+    "lint-staged": "^11.2.6",
+    "prettier": "^2.4.1"
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
   }
 }
